@@ -7,7 +7,7 @@ To assist in the queries ahead,
 the schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
 i then wrote a SQL query to pull the data needed to successfully answer my question.
 Used the pulled data to build a visual (bar chart, histogram, or another plot) that answers my question.
-all queryies are availble in the files uploaded.
+all queries are availble in the files uploaded.
 my  presentation includes:
 
 Four slides
